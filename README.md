@@ -4,6 +4,10 @@
 
  This app is built using HTML, CSS, and JavaScript and allows users to calculate their age based on their date of birth.
 
+## Preview App
+
+https://afaqbhat.github.io/age_calculator_app
+
 
 ## Environment Variables
 
